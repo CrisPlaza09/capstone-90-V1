@@ -1,0 +1,8 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "DM-OLED096-636") (type "KiCad") (uri "${KIPRJMOD}/libs/symbols/DM-OLED096-636.kicad_sym") (options "") (descr ""))
+	(lib (name "HX711_Module") (type "KiCad") (uri "${KIPRJMOD}/libs/symbols/HX711_Module.kicad_sym") (options "") (descr ""))
+	(lib (name "MPS20N0040D") (type "KiCad") (uri "${KIPRJMOD}/libs/symbols/MPS20N0040D.kicad_sym") (options "") (descr ""))
+	(lib (name "MicroSD_Mini_Module") (type "KiCad") (uri "${KIPRJMOD}/libs/symbols/MicroSD_Mini_Module.kicad_sym") (options "") (descr ""))
+	(lib (name "SEN-12650") (type "KiCad") (uri "${KIPRJMOD}/libs/symbols/SEN-12650.kicad_sym") (options "") (descr ""))
+)
